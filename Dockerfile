@@ -1,2 +1,2 @@
 FROM nginx:latest
-COPY employee.html /usr/share/nginx/html
+COPY employee.html /usr/share/nginx/html/index.html
